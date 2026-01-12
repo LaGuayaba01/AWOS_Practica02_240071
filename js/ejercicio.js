@@ -91,5 +91,5 @@ console.log("En base a tu edad puedo deducir que el valor de esMayorEdad es: ", 
 
 console.warn("--Interpolación de Datos--");
 console.log(`Hola, ${miNombre} ${misApellidos}, sé que tienes ${miEdad} años, por lo que eres: ${esMayorDeEdad ? 'Mayor de edad' : 'Menor de edad'}`);
-
+//PASO2
 
