@@ -14,5 +14,6 @@ Esta practica sera desarrollada con estructura de ramales, para el estudiante co
 |---|---|---|---|
 |1.|Declaracion de variables|6|Finalizado|
 |2.|Tipos de Datos|9|Finalizado|
-|3.|Funciones|9|Finalizado|
+|3.|Funes|cion9|Finalizado|
+|4.|Objectos|05|Progreso|
 
