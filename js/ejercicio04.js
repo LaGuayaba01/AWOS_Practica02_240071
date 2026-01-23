@@ -172,6 +172,6 @@ console.log(`La oferta tiene una exactitud del: ${bid1.bid_accurate}`);
 // Test 2: El usuario 3 realiza una oferta de 8200
 let bid2 = buyerBid(user1, user3, property1, 8200);
 console.log(`La oferta tiene una exactitud del: ${bid1.bid_accurate}`);
-// Test 4: El usuario 4 realiza una oferta de 7500
+// Test 4: El usuario 4 realiza una oferta de 10000
 let bid3 = buyerBid(user1, user4, property1, 10000);
 console.log(`La oferta tiene una exactitud del: ${bid1.bid_accurate}`);

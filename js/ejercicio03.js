@@ -40,7 +40,7 @@ return fecha_formatoMX
 }
 console.warn("3. funciones que retornan un valor , pero no tienen parametros de entrada")
 let hoy=fechaActual();
-console.log (fechaActual());
+console.log (fechaActual);
 console.log(typeof(fechaActual));
 console.log(hoy);
 
@@ -80,7 +80,7 @@ console.log("test3-usuario:admin, password:12345")
 loginStatus=login("administrador","12345");
 console.log(`${loginStatus? "el usuario admin se ha logueado correctamente ":"hubo un error en el login del usuario admin."}`);
 
-console.log("test4-usuario:marco, password:abcd")
+console.log("test4-usuario:yhos, password:abcd")
 loginStatus=login("marco","abcd");
 console.log(`${loginStatus? "el usuario admin se ha logueado correctamente ":"hubo un error en el login del usuario admin."}`);
 
